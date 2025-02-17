@@ -3,4 +3,6 @@ class CategoryMadel {
   final String title, image;
   final bool main;
 
+  CategoryMadel(this.id, this.title, this.image, this.main);
+
 }
