@@ -4,6 +4,7 @@ class CategoryMadel {
   final bool main;
 
 
+
   CategoryMadel(this.id, this.title, this.image, this.main);
 
 }
